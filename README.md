@@ -1,6 +1,5 @@
 # Parking System
 
-<></><></>
 ## Descrição
 <p>O Projeto parking system é um sistema de estacionamento no qual trabalho com authenticação do funcionario (Operador) e o mesmo faz toda parte<br>
 de adicionar um veiculo ao pátio (estacionar), finalizar o tempo de estacionamento, cadastro de clientes, alteração das informações e muito mais.</p>
